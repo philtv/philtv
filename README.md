@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @philtv
-- 👀 I’m interested in ... Softwware testing, streaming, hardware, ehtical hacking
+- 👀 I’m interested in ... Software testing, streaming, hardware, ehtical hacking
 - 🌱 I’m currently learning ... python, cyber security
 - 💞️ I’m looking to collaborate on ... test automation projects
 - 📫 How to reach me ... Slack or @phildonachie on most social media
